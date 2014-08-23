@@ -1,6 +1,6 @@
 XO-igrica
 =========
-Rana varijanta XOX igre je igrata jos u Rimskom carstvu, oko prvog veka pre nove ere. Postoje razliciti nazivi ove igre i oni su novijeg datuma na pr. Tic-tac-toe, Tri musko moris...
+Rana varijanta XOX igre se igrala jos u Rimskom carstvu, oko prvog veka pre nove ere. 
 Godine 1952. je igra XOX za EDSAC racunar postala jedna od prvih poznatih video igara, gde racuna igrac igra protiv coveka igraca.
 Uprkos ociglednoj jednostavnosti XOX igra zahteva detaljnu analizu da se utvrde cak i neke elementarne cinjenice kao sto su najinteresantniji broj mogucih igara i broj mogucih pozicija. Pozicija je samo stanje odabira, dok igra se obicno odnosi na nacin na koji se dobija pozicija.
 Naivno brojanje dovodi do 19.683 mogucih rasporeda odoabira (39 jer svako od 9 polja moze biti X, O ili prazno i 362.880 tj.9!)  mogucih razlicitih igara za stavljanje X i O na tabeli. Medjutim, dve stvari mogu mnogo da smanje ove brojeve to su: 
